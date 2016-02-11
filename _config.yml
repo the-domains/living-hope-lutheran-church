@@ -1,0 +1,28 @@
+name: Living Hope Lutheran Church
+favicon: null
+layout_spectrum: 0.32187553425319493
+typography_spectrum: 0.7869180105626583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3146425341255963
+  lightness: 0.5672570953611284
+  saturation: 0.36445160978473723
+  rhythmicContrast: 0.5870600151829422
+purpose: []
